@@ -1,0 +1,7 @@
+browser_profile/
+gym_env/
+*.log
+*.png
+__pycache__/
+*.pyc
+.env
